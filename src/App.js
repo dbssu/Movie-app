@@ -5,7 +5,7 @@ import Movie from './Movie';
 class App extends Component {
 
   // Render: componentWillMount() -> render() -> componentDidMount()
-  // Update componentWillReceiveProps() -> shouldComponentUpdate() -> componentWillUpdate() -> render() -> componentDidUpdate()
+  // Update componentWillReceiveProps() -> shouldComponentUpdsate() -> componentWillUpdate() -> render() -> componentDidUpdate()
 
     state = {}
 
